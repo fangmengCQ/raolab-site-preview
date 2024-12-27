@@ -7,21 +7,20 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are permanently welcoming undergraduate and graduate students and researchers interested in protein degradation to join our lab for research internships, PhD programs or postdoctoral programs. If you are interested in our research, please feel free to contact us.
 
 {%
   include button.html
   type="email"
-  text="yrao@tsinghua.edu.cn"
+  tooltip="yrao@tsinghua.edu.cn"
+  text="Email"
   link="yrao@tsinghua.edu.cn"
 %}
 
 {%
   include button.html
   type="address"
-  tooltip="Biomedical Building (生物医学楼), Tsinghua University"
+  tooltip="Biomedical Building (生物医学馆), Tsinghua University"
   link="https://j.map.baidu.com/3f/eFH"
 %}
 

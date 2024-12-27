@@ -40,7 +40,7 @@ Through these efforts, we aim to advance therapeutic strategies and deepen our u
   text=text
 %}
 
-{% capture text %}
+<!-- {% capture text %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -53,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   style="bare"
 %}
 
-{% endcapture %}
+{% endcapture %} -->
 
 {%
   include feature.html
