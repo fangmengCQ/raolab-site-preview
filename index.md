@@ -3,7 +3,7 @@
 
 # Homepage of Yu RAO's Lab
 
-An engaging 1-3 sentence description of your lab.
+Yu RAO's lab focuses on a variety of disease areas, including malignancies, infectious diseases, and age-related degenerative diseases. 
 
 {% include section.html %}
 
@@ -11,7 +11,15 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our main research directions are as follows:
+
+Development of small molecule-based targeted protein degradation technologies (such as PROTACs and molecular glues) for targeted protein degradation and related drug development.
+
+Design, synthesis, and development of small molecule compounds for the treatment of cancer and infectious diseases, based on the three-dimensional structures of target proteins.
+
+Chemical synthesis of biologically active small molecules and their application as molecular probes in chemical biology research.
+
+Through these efforts, we aim to advance therapeutic strategies and deepen our understanding of disease mechanisms at the molecular level.
 
 {%
   include button.html
