@@ -19,3 +19,7 @@
 - id: doi:10.1021/jacs.4c11930
   type: paper
   image: https://pubs.acs.org/cms/10.1021/jacs.4c11930/asset/images/medium/ja4c11930_0007.gif
+
+- id: 10.1016/j.canlet.2024.217112
+  type: paper
+  image: images/publication/PI3KPROTAC.jpg
