@@ -16,3 +16,28 @@
   image: https://pubs.acs.org/cms/10.1021/jacs.4c11930/asset/images/medium/ja4c11930_0007.gif
   plugin: sources.py
   file: sources.yaml
+- id: 10.1016/j.canlet.2024.217112
+  title: PI3K PROTAC overcomes the lapatinib resistance in PIK3CA-mutant HER2 positive
+    breast cancer
+  authors:
+  - Hongyan Zhang
+  - Longlong Zhang
+  - Yuna He
+  - Dewei Jiang
+  - Jian Sun
+  - Qianmei Luo
+  - Huichun Liang
+  - Tiantian Wang
+  - Fubing Li
+  - Yu Tang
+  - Zimo Yang
+  - Wenjing Liu
+  - Yu Rao
+  - Ceshi Chen
+  publisher: Cancer Letters
+  date: '2024-08-01'
+  link: https://doi.org/g8w5cd
+  type: paper
+  image: images/publication/PI3KPROTAC.jpg
+  plugin: sources.py
+  file: sources.yaml
