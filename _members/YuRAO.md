@@ -6,6 +6,7 @@ affiliation: Tsinghua University
 aliases:
   - Y. Rao
   - Y Rao
+  - Yu Rao
 links:
   home-page: https://www.sps.tsinghua.edu.cn/info/1011/1418.htm
   orcid: 0000-0002-4356-8531

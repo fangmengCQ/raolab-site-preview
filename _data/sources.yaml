@@ -16,10 +16,18 @@
 #     - collaboration
 #   repo: greenelab/meta-review
 
+- id: doi:10.1016/j.canlet.2024.217112
+  type: paper
+  image: images/publication/PI3KPROTAC.jpg
+
+- id: doi:10.1016/j.bmc.2024.117967
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S096808962400381X-ga1.jpg
+
 - id: doi:10.1021/jacs.4c11930
   type: paper
   image: https://pubs.acs.org/cms/10.1021/jacs.4c11930/asset/images/medium/ja4c11930_0007.gif
 
-- id: doi:10.1016/j.canlet.2024.217112
+- id: doi:10.1038/s41421-024-00711-x
   type: paper
-  image: images/publication/PI3KPROTAC.jpg
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41421-024-00711-x/MediaObjects/41421_2024_711_Fig1_HTML.png
