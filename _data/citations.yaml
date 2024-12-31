@@ -1,21 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1021/jacs.4c11930
-  title: A Dual-Target and Dual-Mechanism Design Strategy by Combining Inhibition
-    and Degradation Together
-  authors:
-  - Yongbo Liu
-  - Xiuyun Sun
-  - Qianlong Liu
-  - Chi Han
-  - Yu Rao
-  publisher: Journal of the American Chemical Society
-  date: '2024-12-02'
-  link: https://doi.org/g8w5b9
-  type: paper
-  image: https://pubs.acs.org/cms/10.1021/jacs.4c11930/asset/images/medium/ja4c11930_0007.gif
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1016/j.canlet.2024.217112
   title: PI3K PROTAC overcomes the lapatinib resistance in PIK3CA-mutant HER2 positive
     breast cancer
@@ -39,5 +23,58 @@
   link: https://doi.org/g8w5cd
   type: paper
   image: images/publication/PI3KPROTAC.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bmc.2024.117967
+  title: The application of PROTACs in immune-inflammation diseases
+  authors:
+  - Chao Zhang
+  - Xiuyun Sun
+  - Peilu Song
+  - Yu Rao
+  publisher: Bioorganic &amp; Medicinal Chemistry
+  date: '2024-12-01'
+  link: https://doi.org/g8w5nt
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S096808962400381X-ga1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/jacs.4c11930
+  title: A Dual-Target and Dual-Mechanism Design Strategy by Combining Inhibition
+    and Degradation Together
+  authors:
+  - Yongbo Liu
+  - Xiuyun Sun
+  - Qianlong Liu
+  - Chi Han
+  - Yu Rao
+  publisher: Journal of the American Chemical Society
+  date: '2024-12-02'
+  link: https://doi.org/g8w5b9
+  type: paper
+  image: https://pubs.acs.org/cms/10.1021/jacs.4c11930/asset/images/medium/ja4c11930_0007.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41421-024-00711-x
+  title: "PROTAC for Bruton\u2019s tyrosine kinase degradation alleviates inflammation\
+    \ in autoimmune diseases"
+  authors:
+  - Can Zhu
+  - Zimo Yang
+  - Yuxiao Zhang
+  - Zhenjun Li
+  - Guangchen Li
+  - Bing Yang
+  - Na Kang
+  - Jingwen Wang
+  - Yonghui Sun
+  - Ning Ding
+  - Yu Rao
+  - Wanli Liu
+  publisher: Cell Discovery
+  date: '2024-08-06'
+  link: https://doi.org/g8w5nv
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41421-024-00711-x/MediaObjects/41421_2024_711_Fig1_HTML.png
   plugin: sources.py
   file: sources.yaml
