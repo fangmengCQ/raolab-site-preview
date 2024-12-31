@@ -30,4 +30,8 @@
 
 - id: doi:10.1038/s41421-024-00711-x
   type: paper
-  image: images/publication/PROTACforBruton.png
+  image: images/publication/PROTACforBruton.jpg
+
+- id: doi:10.1038/s41589-024-01683-5
+  type: paper
+  image: images/publication/TargetingSmurf1.jpg
