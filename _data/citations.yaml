@@ -75,6 +75,38 @@
   date: '2024-08-06'
   link: https://doi.org/g8w5nv
   type: paper
-  image: images/publication/PROTACforBruton.png
+  image: images/publication/PROTACforBruton.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41589-024-01683-5
+  title: "Targeting Smurf1 to block PDK1\u2013Akt signaling in KRAS-mutated colorectal\
+    \ cancer"
+  authors:
+  - Zhiqiang Peng
+  - Wei Fang
+  - Bo Wu
+  - Ming He
+  - Shaohua Li
+  - Jun Wei
+  - Yang Hao
+  - Lujia Jin
+  - Mingqiu Liu
+  - Xin Zhang
+  - Yange Wei
+  - Yingwei Ge
+  - Yinghua Wei
+  - Haili Qian
+  - Yangjun Zhang
+  - Junyi Jiang
+  - Zhijie Chang
+  - Yu Rao
+  - Xueli Zhang
+  - Chun-Ping Cui
+  - Lingqiang Zhang
+  publisher: Nature Chemical Biology
+  date: '2024-07-22'
+  link: https://doi.org/g8xdsb
+  type: paper
+  image: images/publication/TargetingSmurf1.jpg
   plugin: sources.py
   file: sources.yaml
