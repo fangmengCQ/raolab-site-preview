@@ -15,6 +15,8 @@ This page showcases research articles published by Yu RAO's lab in recent years.
 
 {% include citation.html lookup="A Dual-Target and Dual-Mechanism Design Strategy by Combining Inhibition and Degradation Together" style="rich" %}
 
+{% include citation.html lookup="BRD4-targeting PROTAC as a unique tool to study biomolecular condensates" style="rich" %}
+
 {% include section.html %}
 
 ## All

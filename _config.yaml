@@ -8,12 +8,9 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@fangmengCQ.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: yrao@tsinghua.edu.cn
+  orcid: 0000-0002-4356-8531
   github: fangmengCQ
-  twitter: fangmengCQ
-  youtube: fangmengCQ
 
 ### jekyll settings
 

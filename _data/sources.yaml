@@ -47,3 +47,26 @@
 - id: doi:10.1016/j.scib.2024.03.056
   type: paper
   image: images/publication/Targetingtheundruggables.jpg
+
+- id: doi:10.1002/advs.202308186
+  type: paper
+  image: images/publication/DegradationBasedProteinProfiling.jpg
+
+- id: doi:10.1016/j.cclet.2022.107924
+  type: paper
+  image: images/publication/DevelopingpotentBTKC481S.jpg
+
+- id: doi:10.15212/AMM-2023-0039
+  type: paper
+  image: images/publication/PROTACstargetingepogenetic.jpg
+
+- id: doi:10.1007/s11684-023-1027-5
+  type: paper
+
+- id: doi:10.1038/s41421-023-00544-0
+  type: paper
+  image: images/publication/BRD4targetingPROTAC.jpg
+
+- id: doi:10.1039/d3md00216k
+  type: paper
+  image: images/publication/DesignsynthesisandevaluationofBTK.jpg
