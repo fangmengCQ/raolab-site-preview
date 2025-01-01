@@ -168,3 +168,106 @@
   image: images/publication/Targetingtheundruggables.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1002/advs.202308186
+  title: "Degradation\u2010Based Protein Profiling: A Case Study of Celastrol"
+  authors:
+  - Zhihao Ni
+  - Yi Shi
+  - Qianlong Liu
+  - Liguo Wang
+  - Xiuyun Sun
+  - Yu Rao
+  publisher: Advanced Science
+  date: '2024-04-25'
+  link: https://doi.org/g8w6nb
+  type: paper
+  image: images/publication/DegradationBasedProteinProfiling.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cclet.2022.107924
+  title: Developing potent BTKC481S PROTACs for ibrutinib-resistant malignant lymphoma
+  authors:
+  - Yonghui Sun
+  - Xin Luo
+  - Zimo Yang
+  - Wenxing Lv
+  - Lixia Chen
+  - Hua Li
+  - Yu Rao
+  publisher: Chinese Chemical Letters
+  date: '2023-06-01'
+  link: https://doi.org/g8xfm9
+  type: paper
+  image: images/publication/DevelopingpotentBTKC481S.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.15212/AMM-2023-0039
+  title: PROTACs targeting epigenetic proteins
+  authors:
+  - Chao Zhang
+  - Yuna He
+  - Xiuyun Sun
+  - Wenyi Wei
+  - Yanlong Liu
+  - Yu Rao
+  publisher: Acta Materia Medica
+  date: '2023-01-01'
+  link: https://doi.org/g8xfnb
+  type: paper
+  image: images/publication/PROTACstargetingepogenetic.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11684-023-1027-5
+  title: Discovery of small molecule degraders for modulating cell cycle
+  authors:
+  - Liguo Wang
+  - Zhouli Yang
+  - Guangchen Li
+  - Yongbo Liu
+  - Chao Ai
+  - Yu Rao
+  publisher: Frontiers of Medicine
+  date: '2023-10-01'
+  link: https://doi.org/g8xfnc
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41421-023-00544-0
+  title: BRD4-targeting PROTAC as a unique tool to study biomolecular condensates
+  authors:
+  - Yi Shi
+  - Yuan Liao
+  - Qianlong Liu
+  - Zhihao Ni
+  - Zhenzhen Zhang
+  - Minglei Shi
+  - Pilong Li
+  - Haitao Li
+  - Yu Rao
+  publisher: Cell Discovery
+  date: '2023-05-09'
+  link: https://doi.org/gsczss
+  type: paper
+  image: images/publication/BRD4targetingPROTAC.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1039/d3md00216k
+  title: Design, synthesis, and evaluation of BTK-targeting PROTACs with optimized
+    bioavailability <i>in vitro</i> and <i>in vivo</i>
+  authors:
+  - Yonghui Sun
+  - Zimo Yang
+  - Zhimin Zhang
+  - Zhen Li
+  - Liubin Guo
+  - Hao Pan
+  - Xin Luo
+  - Dongzhou Liu
+  - Yu Rao
+  publisher: RSC Medicinal Chemistry
+  date: '2023-01-01'
+  link: https://doi.org/g8xfnd
+  type: paper
+  image: images/publication/DesignsynthesisandevaluationofBTK.jpg
+  plugin: sources.py
+  file: sources.yaml
