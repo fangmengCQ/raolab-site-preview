@@ -558,3 +558,106 @@
   image: images/publication/DesignsynthesisandevaluationFAK.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1021/acs.jmedchem.9b00871
+  title: Potent and Preferential Degradation of CDK6 via Proteolysis Targeting Chimera
+    Degraders
+  authors:
+  - Shang Su
+  - Zimo Yang
+  - Hongying Gao
+  - Haiyan Yang
+  - Songbiao Zhu
+  - Zixuan An
+  - Juanjuan Wang
+  - Qing Li
+  - Sarat Chandarlapaty
+  - Haiteng Deng
+  - Wei Wu
+  - Yu Rao
+  publisher: Journal of Medicinal Chemistry
+  date: '2019-07-22'
+  link: https://doi.org/gkx2kk
+  type: paper
+  image: images/publication/PotentandPreferentialCDK6.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41375-019-0440-x
+  title: "Degradation of Bruton\u2019s tyrosine kinase mutants by PROTACs for potential\
+    \ treatment of ibrutinib-resistant non-Hodgkin lymphomas"
+  authors:
+  - Yonghui Sun
+  - Ning Ding
+  - Yuqin Song
+  - Zimo Yang
+  - Wanli Liu
+  - Jun Zhu
+  - Yu Rao
+  publisher: Leukemia
+  date: '2019-03-11'
+  link: https://doi.org/gkx2kg
+  type: paper
+  image: images/publication/DegradationofBruton.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41421-018-0079-1
+  title: A chemical approach for global protein knockdown from mice to non-human primates
+  authors:
+  - Xiuyun Sun
+  - Jun Wang
+  - Xia Yao
+  - Wen Zheng
+  - Yang Mao
+  - Tianlong Lan
+  - Liguo Wang
+  - Yonghui Sun
+  - Xinyi Zhang
+  - Qiuye Zhao
+  - Jianguo Zhao
+  - Rui-Ping Xiao
+  - Xiuqin Zhang
+  - Guangju Ji
+  - Yu Rao
+  publisher: Cell Discovery
+  date: '2019-02-05'
+  link: https://doi.org/gkx2j6
+  type: paper
+  image: images/publication/10.1038/s41375-019-0440-x
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s13238-018-0602-z
+  title: Developing potent PROTACs tools for selective degradation of HDAC6 protein
+  authors:
+  - Zixuan An
+  - Wenxing Lv
+  - Shang Su
+  - Wei Wu
+  - Yu Rao
+  publisher: Protein &amp; Cell
+  date: '2019-01-02'
+  link: https://doi.org/gkx2kd
+  type: paper
+  image: images/publication/DevelopingpotentHDAC6.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41422-018-0055-1
+  title: PROTAC-induced BTK degradation as a novel therapy for mutated BTK C481S induced
+    ibrutinib-resistant B-cell malignancies
+  authors:
+  - Yonghui Sun
+  - Xingwang Zhao
+  - Ning Ding
+  - Hongying Gao
+  - Yue Wu
+  - Yiqing Yang
+  - Meng Zhao
+  - Jinseok Hwang
+  - Yuqin Song
+  - Wanli Liu
+  - Yu Rao
+  publisher: Cell Research
+  date: '2018-06-06'
+  link: https://doi.org/gf4qsq
+  type: paper
+  image: images/publication/PROTACinducedBTK.jpg
+  plugin: sources.py
+  file: sources.yaml
