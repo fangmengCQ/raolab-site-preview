@@ -17,6 +17,8 @@ This page showcases research articles published by Yu RAO's lab in recent years.
 
 {% include citation.html lookup="BRD4-targeting PROTAC as a unique tool to study biomolecular condensates" style="rich" %}
 
+{% include citation.html lookup="Merging PROTAC and molecular glue for degrading BTK and GSPT1 proteins concurrently" style="rich" %}
+
 {% include section.html %}
 
 ## All

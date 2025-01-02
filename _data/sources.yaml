@@ -71,3 +71,59 @@
 - id: doi:10.1039/d3md00216k
   type: paper
   image: images/publication/DesignsynthesisandevaluationofBTK.jpg
+
+- id: doi:10.1039/d2cs00220e
+  type: paper
+  image: images/publication/Chemistriesofbifunctional.jpg
+
+- id: doi:10.1038/s41392-022-00999-9
+  type: paper
+  image: images/publication/PROTACsgreatopportunitesforacademia.jpg
+
+- id: doi:10.1158/2326-6066.CIR-21-0806
+  type: paper
+  image: images/publication/CDK2InhibitionEnhances.jpg
+
+- id: doi:10.1038/s41392-022-00970-8
+  type: paper
+  image: images/publication/PROTACmediatedFKBP12.jpg
+
+- id: doi:10.1038/s41422-021-00533-6
+  type: paper
+  image: images/publication/MergingPROTACandmolecularglue.jpg
+
+- id: doi:10.3389/fcell.2021.685106
+  type: paper
+  image: images/publication/OpportunitiesandChallenges.jpg
+
+- id: doi:10.1038/s41589-021-00742-5
+  type: paper
+  image: images/publication/DiscoveryofCDK2AML.jpg
+
+- id: 10.1016/j.isci.2021.103177
+  type: paper
+  image: images/publication/RapamycinrecruitsSIRT2.jpg
+
+- id: 10.1021/acs.jmedchem.0c00967
+  type: paper
+  image: images/publication/GlobalPROTACToolbox.jpg
+
+- id: 10.1007/s13238-020-00732-8
+  type: paper
+  image: images/publication/FAKtargetingPROTAC.jpg
+
+- id: 10.1021/acs.jmedchem.0c00339
+  type: paper
+  image: images/publication/DegradationversusInhibition.jpg
+
+- id: doi:10.1021/acsmedchemlett.9b00597
+  type: paper
+  image: images/publication/PROTACTechnonlogyOpportunities.jpg
+
+- id: doi:10.1039/C9CC08509B
+  type: paper
+  image: images/publication/PlasticityHDAC6.jpg
+
+- id: doi:10.1021/acs.biochem.9b00848
+  type: paper
+  image: images/publication/PROTACsasPotential.jpeg
