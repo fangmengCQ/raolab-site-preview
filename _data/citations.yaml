@@ -542,3 +542,19 @@
   image: images/publication/PROTACsasPotential.jpeg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1021/acsmedchemlett.9b00372
+  title: Design, Synthesis, and Evaluation of Highly Potent FAK-Targeting PROTACs
+  authors:
+  - Hongying Gao
+  - Yue Wu
+  - Yonghui Sun
+  - Yiqing Yang
+  - Guangbiao Zhou
+  - Yu Rao
+  publisher: ACS Medicinal Chemistry Letters
+  date: '2019-10-22'
+  link: https://doi.org/g8xh7p
+  type: paper
+  image: images/publication/DesignsynthesisandevaluationFAK.jpg
+  plugin: sources.py
+  file: sources.yaml
