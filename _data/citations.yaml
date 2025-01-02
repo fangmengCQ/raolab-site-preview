@@ -639,6 +639,21 @@
   image: images/publication/DevelopingpotentHDAC6.jpeg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1039/c8cc07813k
+  title: Induction of apoptosis in MDA-MB-231 breast cancer cells by a PARP1-targeting
+    PROTAC small molecule
+  authors:
+  - Qiuye Zhao
+  - Tianlong Lan
+  - Shang Su
+  - Yu Rao
+  publisher: Chemical Communications
+  date: '2019-01-01'
+  link: https://doi.org/gkx2j5
+  type: paper
+  image: images/publication/Introductionofapoptosis.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41422-018-0055-1
   title: PROTAC-induced BTK degradation as a novel therapy for mutated BTK C481S induced
     ibrutinib-resistant B-cell malignancies
