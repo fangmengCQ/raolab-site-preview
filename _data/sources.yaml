@@ -127,3 +127,7 @@
 - id: doi:10.1021/acs.biochem.9b00848
   type: paper
   image: images/publication/PROTACsasPotential.jpeg
+
+- id: doi:10.1021/acsmedchemlett.9b00372
+  type: paper
+  image: images/publication/DesignsynthesisandevaluationFAK.jpg
