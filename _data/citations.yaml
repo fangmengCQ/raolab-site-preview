@@ -272,3 +272,273 @@
   image: images/publication/DesignsynthesisandevaluationofBTK.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1039/d2cs00220e
+  title: Chemistries of bifunctional PROTAC degraders
+  authors:
+  - Chaoguo Cao
+  - Ming He
+  - Liguo Wang
+  - Yuna He
+  - Yu Rao
+  publisher: Chemical Society Reviews
+  date: '2022-01-01'
+  link: https://doi.org/gqvh8c
+  type: paper
+  image: images/publication/Chemistriesofbifunctional.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41392-022-00999-9
+  title: 'PROTACs: great opportunities for academia and industry (an update from 2020
+    to 2021)'
+  authors:
+  - Ming He
+  - Chaoguo Cao
+  - Zhihao Ni
+  - Yongbo Liu
+  - Peilu Song
+  - Shuang Hao
+  - Yuna He
+  - Xiuyun Sun
+  - Yu Rao
+  publisher: Signal Transduction and Targeted Therapy
+  date: '2022-06-09'
+  link: https://doi.org/g8xh66
+  type: paper
+  image: images/publication/PROTACsgreatopportunitesforacademia.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1158/2326-6066.CIR-21-0806
+  title: CDK2 Inhibition Enhances Antitumor Immunity by Increasing IFN Response to
+    Endogenous Retroviruses
+  authors:
+  - Yu Chen
+  - Qiaomei Cai
+  - Chaohu Pan
+  - Wancheng Liu
+  - Lili Li
+  - Junxiao Liu
+  - Meiling Gao
+  - Xiaorong Li
+  - Liguo Wang
+  - Yu Rao
+  - Heng Yang
+  - Genhong Cheng
+  publisher: Cancer Immunology Research
+  date: '2022-02-18'
+  link: https://doi.org/gskk76
+  type: paper
+  image: images/publication/CDK2InhibitionEnhances.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41392-022-00970-8
+  title: PROTAC mediated FKBP12 degradation enhances Hepcidin expression via BMP signaling
+    without immunosuppression activity
+  authors:
+  - Tianbai Zhong
+  - Xiuyun Sun
+  - Li Yu
+  - Yongbo Liu
+  - Xin Lin
+  - Yu Rao
+  - Wei Wu
+  publisher: Signal Transduction and Targeted Therapy
+  date: '2022-05-27'
+  link: https://doi.org/g8xh67
+  type: paper
+  image: images/publication/PROTACmediatedFKBP12.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41422-021-00533-6
+  title: Merging PROTAC and molecular glue for degrading BTK and GSPT1 proteins concurrently
+  authors:
+  - Zimo Yang
+  - Yonghui Sun
+  - Zhihao Ni
+  - Celi Yang
+  - Yan Tong
+  - Yujie Liu
+  - Haitao Li
+  - Yu Rao
+  publisher: Cell Research
+  date: '2021-08-20'
+  link: https://doi.org/g8xh68
+  type: paper
+  image: images/publication/MergingPROTACandmolecularglue.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fcell.2021.685106
+  title: Opportunities and Challenges of Small Molecule Induced Targeted Protein Degradation
+  authors:
+  - Ming He
+  - Wenxing Lv
+  - Yu Rao
+  publisher: Frontiers in Cell and Developmental Biology
+  date: '2021-06-22'
+  link: https://doi.org/gqnbz5
+  type: paper
+  image: images/publication/OpportunitiesandChallenges.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41589-021-00742-5
+  title: Discovery of a first-in-class CDK2 selective degrader for AML differentiation
+    therapy
+  authors:
+  - Liguo Wang
+  - Xuejing Shao
+  - Tianbai Zhong
+  - Yue Wu
+  - Aixiao Xu
+  - Xiuyun Sun
+  - Hongying Gao
+  - Yongbo Liu
+  - Tianlong Lan
+  - Yan Tong
+  - Xue Tao
+  - Wenxin Du
+  - Wei Wang
+  - Yingqian Chen
+  - Ting Li
+  - Xianbin Meng
+  - Haiteng Deng
+  - Bo Yang
+  - Qiaojun He
+  - Meidan Ying
+  - Yu Rao
+  publisher: Nature Chemical Biology
+  date: '2021-03-04'
+  link: https://doi.org/gk4nbr
+  type: paper
+  image: images/publication/DiscoveryofCDK2AML.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.isci.2021.103177
+  title: Rapamycin recruits SIRT2 for FKBP12 deacetylation during mTOR activity modulation
+    in innate immunity
+  authors:
+  - Lin Hu
+  - Fuxian Chen
+  - Chao Wu
+  - Jun Wang
+  - Si-si Chen
+  - Xiang-rong Li
+  - Jing Wang
+  - Linpeng Wu
+  - Jian-ping Ding
+  - Jian-chuan Wang
+  - Chao Huang
+  - Hui Zheng
+  - Yu Rao
+  - Yu Sun
+  - Zhijie Chang
+  - Wei Deng
+  - Cheng Luo
+  - Y. Eugene Chin
+  publisher: iScience
+  date: '2021-11-01'
+  link: https://doi.org/g8xh69
+  type: paper
+  image: images/publication/RapamycinrecruitsSIRT2.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1021/acs.jmedchem.0c00967
+  title: "Global PROTAC Toolbox for Degrading BCR\u2013ABL Overcomes Drug-Resistant\
+    \ Mutants and Adverse Effects"
+  authors:
+  - Yiqing Yang
+  - Hongying Gao
+  - Xiuyun Sun
+  - Yonghui Sun
+  - Yueping Qiu
+  - Qinjie Weng
+  - Yu Rao
+  publisher: Journal of Medicinal Chemistry
+  date: '2020-07-13'
+  link: https://doi.org/g8xh7b
+  type: paper
+  image: images/publication/GlobalPROTACToolbox.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/s13238-020-00732-8
+  title: FAK-targeting PROTAC as a chemical tool for the investigation of non-enzymatic
+    FAK function in mice
+  authors:
+  - Hongying Gao
+  - Chunwei Zheng
+  - Jian Du
+  - Yue Wu
+  - Yonghui Sun
+  - Chunsheng Han
+  - Kehkooi Kee
+  - Yu Rao
+  publisher: Protein &amp; Cell
+  date: '2020-05-25'
+  link: https://doi.org/gkx2m9
+  type: paper
+  image: images/publication/FAKtargetingPROTAC.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1021/acs.jmedchem.0c00339
+  title: 'Degradation versus Inhibition: Development of Proteolysis-Targeting Chimeras
+    for Overcoming Statin-Induced Compensatory Upregulation of 3-Hydroxy-3-methylglutaryl
+    Coenzyme A Reductase'
+  authors:
+  - Mei-Xin Li
+  - Yiqing Yang
+  - Qiuye Zhao
+  - Yue Wu
+  - Lei Song
+  - Haiyan Yang
+  - Ming He
+  - Hongying Gao
+  - Bao-Liang Song
+  - Jie Luo
+  - Yu Rao
+  publisher: Journal of Medicinal Chemistry
+  date: '2020-04-22'
+  link: https://doi.org/gkx2nf
+  type: paper
+  image: images/publication/DegradationversusInhibition.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acsmedchemlett.9b00597
+  title: 'PROTAC Technology: Opportunities and Challenges'
+  authors:
+  - Hongying Gao
+  - Xiuyun Sun
+  - Yu Rao
+  publisher: ACS Medicinal Chemistry Letters
+  date: '2020-03-12'
+  link: https://doi.org/gkx2nd
+  type: paper
+  image: images/publication/PROTACTechnonlogyOpportunities.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1039/C9CC08509B
+  title: Plasticity in designing PROTACs for selective and potent degradation of HDAC6
+  authors:
+  - Haiyan Yang
+  - Wenxing Lv
+  - Ming He
+  - Haiteng Deng
+  - Haitao Li
+  - Wei Wu
+  - Yu Rao
+  publisher: Chemical Communications
+  date: '2019-01-01'
+  link: https://doi.org/gkx2kv
+  type: paper
+  image: images/publication/PlasticityHDAC6.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.biochem.9b00848
+  title: PROTACs as Potential Therapeutic Agents for Cancer Drug Resistance
+  authors:
+  - Xiuyun Sun
+  - Yu Rao
+  publisher: Biochemistry
+  date: '2019-10-29'
+  link: https://doi.org/gkx2m8
+  type: paper
+  image: images/publication/PROTACsasPotential.jpeg
+  plugin: sources.py
+  file: sources.yaml
