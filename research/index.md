@@ -21,7 +21,7 @@ This page showcases research articles published by Yu RAO's lab in recent years.
 
 {% include citation.html lookup="A Chemical Approach for Global Protein Knockdown from Mice to Non-human Primates" style="rich" %}
 
-{% include citation.html lookup="PROTAC-Induced BTK Degradation as a Novel Therapy for Mutated BTK C481S Induced Ibrutinib-Resistant B-Cell Malignancies" style="rich" %}
+{% include citation.html lookup="PROTAC-induced BTK degradation as a novel therapy for mutated BTK C481S induced ibrutinib-resistant B-cell malignancies" style="rich" %}
 
 {% include section.html %}
 

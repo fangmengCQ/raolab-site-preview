@@ -148,6 +148,11 @@
   type: paper
   image: images/publication/DevelopingpotentHDAC6.jpeg
 
+- id: doi:10.1039/c8cc07813k
+  type: paper
+  image: images/publication/Introductionofapoptosis.jpg
+
 - id: doi:10.1038/s41422-018-0055-1
   type: paper
   image: images/publication/PROTACinducedBTK.jpg
+
