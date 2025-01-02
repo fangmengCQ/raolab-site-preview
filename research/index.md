@@ -19,7 +19,7 @@ This page showcases research articles published by Yu RAO's lab in recent years.
 
 {% include citation.html lookup="Merging PROTAC and molecular glue for degrading BTK and GSPT1 proteins concurrently" style="rich" %}
 
-{% include citation.html lookup="A Chemical Approach for Global Protein Knockdown from Mice to Non-human Primates" style="rich" %}
+{% include citation.html lookup="A chemical approach for global protein knockdown from mice to non-human primates" style="rich" %}
 
 {% include citation.html lookup="PROTAC-induced BTK degradation as a novel therapy for mutated BTK C481S induced ibrutinib-resistant B-cell malignancies" style="rich" %}
 
