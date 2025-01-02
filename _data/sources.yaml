@@ -131,3 +131,23 @@
 - id: doi:10.1021/acsmedchemlett.9b00372
   type: paper
   image: images/publication/DesignsynthesisandevaluationFAK.jpg
+
+- id: doi:10.1021/acs.jmedchem.9b00871
+  type: paper
+  image: images/publication/PotentandPreferentialCDK6.jpeg
+
+- id: doi:10.1038/s41375-019-0440-x
+  type: paper
+  image: images/publication/DegradationofBruton.jpg
+
+- id: doi:10.1038/s41421-018-0079-1
+  type: paper
+  image: images/publication/10.1038/s41375-019-0440-x
+
+- id: doi:10.1007/s13238-018-0602-z
+  type: paper
+  image: images/publication/DevelopingpotentHDAC6.jpeg
+
+- id: doi:10.1038/s41422-018-0055-1
+  type: paper
+  image: images/publication/PROTACinducedBTK.jpg
