@@ -23,6 +23,8 @@ This page showcases research articles published by Yu RAO's lab in recent years.
 
 {% include citation.html lookup="PROTAC-induced BTK degradation as a novel therapy for mutated BTK C481S induced ibrutinib-resistant B-cell malignancies" style="rich" %}
 
+{% include citation.html lookup="Discovery of a first-in-class CDK2 selective degrader for AML differentiation therapy" style="rich" %}
+
 {% include section.html %}
 
 ## All
